@@ -3,13 +3,15 @@
 
 
 ### Stats
-
-![Snqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=snqwq&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snqwq&layout=compact)](https://github.com/snqwq)
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snqwq&theme=dark" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=snqwq&theme=dark" />
+</a>
 
 
 ### Coding Languages that I know
-
 ![Python 3](https://img.shields.io/badge/-python%203-grey?style=flat&logo=python&logoColor=3776AB)
 ![Lua](https://img.shields.io/badge/-Lua-grey?style=flat&logo=lua&logoColor=2C2D72)
 ![Windows Terminal](https://img.shields.io/badge/-Terminal-grey?style=flat&logo=Windows%20Terminal)
