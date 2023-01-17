@@ -24,7 +24,5 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat&logo=Ubuntu&logoColor=E95420)
 ![Debian](https://img.shields.io/badge/-Debian-gray?style=flat&logo=Debian&logoColor=A81D33)
 
-
-i hope you are having a good day :)
-
-i might add more to profile later lol
+### You Can Reach Me On
+![Discord]()
