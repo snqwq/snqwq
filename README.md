@@ -3,12 +3,9 @@
 
 
 ### Stats
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snqwq&theme=dark" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=snqwq&theme=dark" />
-</a>
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=snqwq&theme=dark)
+
 
 
 ### Coding Languages that I know
