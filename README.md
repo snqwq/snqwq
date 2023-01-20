@@ -2,24 +2,42 @@
 ![certified cool guy](https://github.com/snqwq/assets/blob/1ac935f88dbb3fdafd615ddf20288b6cefacd15c/cool-guy-green.svg)
 
 
+<!-- stat site things -->
 ### Stats
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=snqwq&theme=dark)
 
 
+<!-- Tools and coding languages -->
+### Languages/Tools I Have Used
+<p float="left">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="python"/> 
+  <img height="32" width="32" src="https://cdn.simpleicons.org/lua" alt="lua"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" alt="windows terminal"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/powershell" alt="powershell"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="html5"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="css3"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="javascript"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" alt="visual studio"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" alt="vscode"/>
+  
+<p/>
 
-### Coding Languages that I know
-![Python 3](https://img.shields.io/badge/-python%203-grey?style=flat&logo=python&logoColor=3776AB)
-![Lua](https://img.shields.io/badge/-Lua-grey?style=flat&logo=lua&logoColor=2C2D72)
-![Windows Terminal](https://img.shields.io/badge/-Terminal-grey?style=flat&logo=Windows%20Terminal)
-![Powershell](https://img.shields.io/badge/-Powershell-grey?style=flat&logo=PowerShell&logoColor=5391FE)
+
+<!-- Operating systems -->
+### Primary Operating Systems 
+<p float="left">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="windows"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/debian" alt="debian"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" alt="arch"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi" alt="raspberrypi"/>
+<p/>
 
 
-### Primary operating systems 
+<!-- Examples of my work -->
+### Examples of My Work
 
-![Windows](https://img.shields.io/badge/-Windows-gray?style=flat&logo=Windows&logoColor=0078D6)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-gray?style=flat&logo=Ubuntu&logoColor=E95420)
-![Debian](https://img.shields.io/badge/-Debian-gray?style=flat&logo=Debian&logoColor=A81D33)
-
+<!-- NOT DONE 
 ### You Can Reach Me On
-![Discord]()
+![Discord]() -->
