@@ -5,7 +5,7 @@
 <!-- stat site things -->
 ### Stats
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=snqwq&theme=transparen)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=snqwq&theme=dark)
 
 
 <!-- Tools and coding languages -->
@@ -36,7 +36,6 @@
 
 
 <!-- Examples of my work -->
-### Examples of My Work
 
 <!-- NOT DONE 
 ### You Can Reach Me On
