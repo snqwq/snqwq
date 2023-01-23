@@ -5,7 +5,7 @@
 <!-- stat site things -->
 ### Stats
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=snqwq&theme=dark)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=snqwq&theme=dark&hide_title=true)
 
 
 <!-- Tools and coding languages -->
