@@ -20,6 +20,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="javascript"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" alt="visual studio"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" alt="vscode"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/3776AB" alt="pycharm"/>
   
 <p/>
 
