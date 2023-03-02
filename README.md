@@ -12,6 +12,7 @@
 ### Languages/Tools I Have Used
 <p float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="python"/> 
+  <img height="32" width="32" src="https://cdn.simpleicons.org/micropython" alt="micropython"/> 
   <img height="32" width="32" src="https://cdn.simpleicons.org/lua" alt="lua"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" alt="windows terminal"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/powershell" alt="powershell"/>
