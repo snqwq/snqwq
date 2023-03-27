@@ -10,7 +10,7 @@
 
 <!-- Tools and coding languages -->
 ### Languages/Tools I Have Used
-<p float="left">
+<div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="python"/> 
   <img height="32" width="32" src="https://cdn.simpleicons.org/micropython" alt="micropython"/> 
   <img height="32" width="32" src="https://cdn.simpleicons.org/lua" alt="lua"/>
@@ -23,19 +23,19 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" alt="visual studio"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" alt="vscode"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/3776AB" alt="pycharm"/>
-  
-<p/>
+
+<div/>
 
 
 <!-- Operating systems -->
 ### Primary Operating Systems 
-<p float="left">
+<div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="windows"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/debian" alt="debian"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" alt="arch"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/raspberrypi" alt="raspberrypi"/>
-<p/>
+<div/>
 
 
 <!-- Examples of my work -->
