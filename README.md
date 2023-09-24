@@ -2,7 +2,7 @@
 ![certified cool guy](https://github.com/snqwq/assets/blob/1ac935f88dbb3fdafd615ddf20288b6cefacd15c/cool-guy-green.svg)
 
 <!-- Tools and coding languages -->
-### Languages I Use
+## Languages I Use
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="python"/> 
   <img height="32" width="32" src="https://cdn.simpleicons.org/lua" alt="lua"/>
@@ -12,13 +12,13 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="typescript"/>
 <div/>
 
-### Main Code Editor
+## Main Code Editor
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" alt="vscode"/>
 <div/>
   
 <!-- Operating systems -->
-### Primary Operating System
+## Primary Operating System
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="windows"/>
   
