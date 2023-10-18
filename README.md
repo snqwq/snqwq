@@ -21,9 +21,9 @@
 ## Primary Operating System
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="windows"/>
-  
-  ik im a normie
-
+  (might switch to 
+  <img height="16" width="16" src="https://cdn.simpleicons.org/debian" alt="debian"/>
+  )
 <div/>
 
 
