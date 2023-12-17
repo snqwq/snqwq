@@ -27,9 +27,13 @@ Hey there! I'm a tech nerd who likes doing junk with computer hardware and softw
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="typescript"/>
 </div/>
 
-## Main Code Editor
+## Main Code Editors
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" alt="vscode"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/39d890" alt="pycharm"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/1578f4" alt="intellijidea"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus" alt="notepadplusplus"/>
+  
 <div/>
 
 ## Primary Operating System
