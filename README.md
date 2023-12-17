@@ -24,6 +24,7 @@ Hey there! I'm a tech nerd who likes doing junk with computer hardware and softw
 ## Languages Im Learning
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" alt="kotlin"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="typescript"/>
 </div/>
 
 ## Main Code Editor
