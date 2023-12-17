@@ -1,12 +1,14 @@
 # About Me
 ![certified cool guy](https://github.com/snqwq/assets/blob/1ac935f88dbb3fdafd615ddf20288b6cefacd15c/cool-guy-green.svg)
 
+## Bio
+Hey there! Im a tech nerd who likes doing junk with computer hardware and software. i will also occasionally solder stuff together to build random devices and gadgets. i also have an interest in cybersecurity and i like to reverse engineer things for fun. When im not trying to make my code not look like spaghetti im usually playing some junk on steam. 
+
 ## Interests
 - Computer hardware and software
 - Building devices and soldering
 - Cybersecurity
 - Gaming
-- Astronomy
 - Reverse engineering
 
 ## Languages I Use
@@ -29,8 +31,3 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="windows"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu"/>
 <div/>
-
-
-<!-- NOT DONE 
-### You Can Reach Me On
-![Discord]() -->
