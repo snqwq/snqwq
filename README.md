@@ -2,7 +2,7 @@
 ![certified cool guy](https://github.com/snqwq/assets/blob/1ac935f88dbb3fdafd615ddf20288b6cefacd15c/cool-guy-green.svg)
 
 ## Bio
-Hey there! Im a tech nerd who likes doing junk with computer hardware and software. i will also occasionally solder stuff together to build random devices and gadgets. i also have an interest in cybersecurity and i like to reverse engineer things for fun. When im not trying to make my code not look like spaghetti im usually playing some junk on steam. 
+Hey there! I'm a tech nerd who likes doing junk with computer hardware and software. I will also occasionally solder stuff together to build random devices and gadgets. I also have an interest in cybersecurity and I like to reverse engineer things for fun. When I'm not trying to make my code not look like spaghetti, I'm usually playing some junk on Steam.
 
 ## Interests
 - Computer hardware and software
@@ -20,6 +20,11 @@ Hey there! Im a tech nerd who likes doing junk with computer hardware and softwa
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="css3"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="javascript"/>
 <div/>
+
+## Languages Im Learning
+<div float="left">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" alt="kotlin"/>
+</div/>
 
 ## Main Code Editor
 <div float="left">
