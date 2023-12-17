@@ -1,7 +1,13 @@
 # About Me
 ![certified cool guy](https://github.com/snqwq/assets/blob/1ac935f88dbb3fdafd615ddf20288b6cefacd15c/cool-guy-green.svg)
 
-btw essentially all the repos i actually work on are private and the ones that are public are usually old 
+## Interests
+- Computer hardware and software
+- Building devices and soldering
+- Cybersecurity
+- Gaming
+- Astronomy
+- Reverse engineering
 
 ## Languages I Use
 <div float="left">
@@ -21,10 +27,9 @@ btw essentially all the repos i actually work on are private and the ones that a
 ## Primary Operating System
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="windows"/>
-  (might switch to 
-  <img height="16" width="16" src="https://cdn.simpleicons.org/debian" alt="debian"/>
-  )
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu"/>
 <div/>
+
 
 <!-- NOT DONE 
 ### You Can Reach Me On
