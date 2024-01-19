@@ -39,5 +39,5 @@ Hey there! I'm a tech nerd who likes doing junk with computer hardware and softw
 ## Primary Operating System
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="windows"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu"/>
+<!--   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu"/> -->
 <div/>
