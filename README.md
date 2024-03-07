@@ -37,7 +37,7 @@ Hey there! I'm a tech nerd who likes doing junk with computer hardware and softw
   <img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus" alt="notepadplusplus"/>
 <div/>
 
-## Primary Operating System
+## How To Contact me
 <div float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="windows"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/discord" alt="discord"/>
 <div/>
