@@ -9,6 +9,7 @@ Hey there! I'm a tech nerd who likes doing junk with computer hardware and softw
 - Building devices and soldering
 - Cybersecurity
 - Gaming
+- Game development
 - Reverse engineering
 
 ## Languages I Use
@@ -27,17 +28,16 @@ Hey there! I'm a tech nerd who likes doing junk with computer hardware and softw
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="typescript"/>
 </div/>
 
-## Main Code Editors
+## Tools I Use
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" alt="vscode"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/39d890" alt="pycharm"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/robloxstudio/" alt="roblox studio"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/1578f4" alt="intellijidea"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus" alt="notepadplusplus"/>
-  
 <div/>
 
 ## Primary Operating System
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/windows" alt="windows"/>
-<!--   <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu"/> -->
 <div/>
