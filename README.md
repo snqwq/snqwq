@@ -14,15 +14,6 @@ I also have an interest in general cybersecurity and reverse engineering, and I 
 
 When I'm not trying to make my code not look like spaghetti, I'm usually playing some junk on Steam.
 
-## Interests
-
-- Computer hardware and software
-- Building devices and soldering
-- Cybersecurity
-- Gaming
-- Game development
-- Reverse engineering
-
 ## Languages I Use
 
 <div float="left">
@@ -34,11 +25,13 @@ When I'm not trying to make my code not look like spaghetti, I'm usually playing
   <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="javascript"/>
 <div/>
 
-## Languages Im Learning
+## Languages Im Learning / Will Learn
 
 <div float="left">
   <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" alt="kotlin"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="typescript"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/c++" alt="c++"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/rust/orange" alt="rust"/>
 </div/>
 
 ## Tools I Use
