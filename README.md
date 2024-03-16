@@ -48,7 +48,7 @@ When I'm not trying to make my code not look like spaghetti, I'm usually playing
 
 <div float="left">
   <a href="https://discordapp.com/users/686709101044039769">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/discord" alt="discord"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/My-Discord-%235865F2?style=flat-square&logo=discord">
   </a>
 <div/>
 
