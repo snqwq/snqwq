@@ -14,7 +14,7 @@ I also have an interest in general cybersecurity and reverse engineering, and I 
 
 When I'm not trying to make my code not look like spaghetti, I'm usually playing some junk on Steam.
 
-## Tools I Use
+## Stuff I Use
 
 ![junk i use](https://skillicons.dev/icons?i=py,c,lua,html,css,js,vscode,pycharm,)
 
