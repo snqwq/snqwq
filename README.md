@@ -14,35 +14,11 @@ I also have an interest in general cybersecurity and reverse engineering, and I 
 
 When I'm not trying to make my code not look like spaghetti, I'm usually playing some junk on Steam.
 
-## Languages I Use
-
-<div float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python" alt="python"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/C" alt="C"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/lua" alt="lua"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" alt="html5"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" alt="css3"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="javascript"/>
-<div/>
+## Tools I Use
+![junk i use](https://skillicons.dev/icons?i=py,c,lua,html,css,js,vscode,pycharm,)
 
 ## Languages Im Learning / Will Learn
-
-<div float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" alt="kotlin"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="typescript"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c++" alt="c++"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/rust/orange" alt="rust"/>
-</div/>
-
-## Tools I Use
-
-<div float="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" alt="vscode"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pycharm/39d890" alt="pycharm"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/robloxstudio/" alt="roblox studio"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/1578f4" alt="intellijidea"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus" alt="notepadplusplus"/>
-<div/>
+![junk to learn](https://skillicons.dev/icons?i=kotlin,typescript,cpp,rust)
 
 ## How To Contact me
 
@@ -52,6 +28,10 @@ When I'm not trying to make my code not look like spaghetti, I'm usually playing
   </a>
 <div/>
 
-## Note
-
+<br>
+<details>
+<summary>Note</summary>
 I tend to have most of my repos private so the public ones may be outdated or just spaghetti
+
+I do plan on making more public repos and contributions
+</details>
