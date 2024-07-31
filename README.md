@@ -6,14 +6,6 @@
 
 ## Hey there, welcome to my profile thing
 
-I'm a tech nerd who likes doing random junk with computer hardware and software.
-
-I occasionally like to solder stuff together to build random devices, gadgets, thingamajigs, and or doohickeys.
-
-I also have an interest in general cybersecurity and reverse engineering, and I tend to do that **legally** whenever i get the chance.
-
-When I'm not trying to make my code not look like spaghetti, I'm usually playing some junk on Steam.
-
 ## Stuff I Use
 
 ![junk i use](https://skillicons.dev/icons?i=py,c,lua,html,css,js,vscode,pycharm,)
