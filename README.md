@@ -7,7 +7,7 @@
 
 ## Stuff I Use
 
-![junk i use](https://skillicons.dev/icons?i=py,c,lua,html,css,js,vscode,pycharm,)
+![junk i use](https://skillicons.dev/icons?i=py,c,lua,html,css,js,vscode,pycharm,godot)
 
 ## Languages Im Learning / Will Learn
 
