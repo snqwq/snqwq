@@ -1,7 +1,10 @@
 # About Me
-
-![certified cool guy](https://github.com/snqwq/assets/blob/1ac935f88dbb3fdafd615ddf20288b6cefacd15c/cool-guy-green.svg)
-![Static Badge](https://img.shields.io/badge/Criminally-Insane-darkred?style=for-the-badge)
+<p align="center">
+  <a href="https://gorbcorp.rocks">
+    <img src="https://github.com/snqwq/assets/blob/1ac935f88dbb3fdafd615ddf20288b6cefacd15c/cool-guy-green.svg" />
+    <img src="https://img.shields.io/badge/Criminally-Insane-darkred?style=for-the-badge" />
+  </a>
+</p>
 
 ## Ello, welcome to my profile thing
 
