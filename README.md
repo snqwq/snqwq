@@ -12,7 +12,7 @@
 
 ![junk i use](https://skillicons.dev/icons?i=py,c,lua,html,css,js,vscode,pycharm,godot)
 
-## Languages Im Learning / Will Learn
+## Languages Im Learning / ~~Will~~ Might Learn
 
 ![junk to learn](https://skillicons.dev/icons?i=kotlin,typescript,cpp,rust)
 
