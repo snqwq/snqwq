@@ -1,33 +1,27 @@
-# About Me
-<p align="center">
-  <a href="https://gorbcorp.rocks">
-    <img src="https://github.com/snqwq/assets/blob/1ac935f88dbb3fdafd615ddf20288b6cefacd15c/cool-guy-green.svg" />
-    <img src="https://img.shields.io/badge/Criminally-Insane-darkred?style=for-the-badge" />
-  </a>
-</p>
 
-## Ello, welcome to my profile thing
+<h1><pre>
+≫ pwd
+  C:\Users\snyeg\github\
+≫ _
+</pre></h1>
 
-## Stuff I Use
+<h1><pre>≫ whoami</pre></h1>
 
-![junk i use](https://skillicons.dev/icons?i=py,c,lua,html,css,js,vscode,pycharm,godot)
+❄️ I am snyeg 
 
-## Languages Im Learning / ~~Will~~ Might Learn
+💻 I am interested in software development, cybersecurity, and the very occasional game development
 
-![junk to learn](https://skillicons.dev/icons?i=kotlin,typescript,cpp,rust)
+🟣 My favorite color is purple
 
-## How To Contact me
+👾 My favorite games are Kerbal Space Program, Trepang2, and Hotline Miami
 
-<div float="left">
-  <a href="https://discordapp.com/users/686709101044039769">
-    <img alt="Static Badge" src="https://img.shields.io/badge/My-Discord-%235865F2?style=for-the-badge&logo=discord">
-  </a>
-<div/>
+📬 I can be reached on   <a href="https://discordapp.com/users/686709101044039769">Discord</a>, and other places but im too lazy to add them
 
-<br>
-<details>
-<summary>Note</summary>
-I tend to have most of my repos private so the public ones may be outdated or just spaghetti
 
-I do plan on making more public repos and contributions
-</details>
+
+> [!NOTE]
+> I tend to have most of my repos private so the public ones may be outdated or just spaghetti
+>
+> I do plan on making more public repos and contributions when i get some more free time
+
+<h1><pre>≫ ls ./repos</pre></h1>
