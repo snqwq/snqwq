@@ -9,11 +9,11 @@
 
 ❄️ I am snyeg 
 
-💻 I am interested in software development, cybersecurity, and the very occasional game development
+💻 I am a hobbist programmer interested in software development, cybersecurity, and the very occasional game development
 
 🟣 My favorite color is purple
 
-👾 My favorite games are Kerbal Space Program, Trepang2, and Hotline Miami
+👾 My favorite games are Project Wingman, Trepang2, and Picayune Dreams
 
 📬 I can be reached on   <a href="https://discordapp.com/users/686709101044039769">Discord</a>, and other places but im too lazy to add them
 
