@@ -15,8 +15,6 @@
 
 👾 My favorite games are Project Wingman, Trepang2, and Picayune Dreams
 
-📬 I can be reached on   <a href="https://discordapp.com/users/686709101044039769">Discord</a>, and other places but im too lazy to add them
-
 
 
 > [!NOTE]
